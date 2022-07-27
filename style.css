@@ -1,0 +1,54 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: linear-gradient( white, orange );
+}
+
+.website-header{
+    text-align: center;
+}
+
+.social-icons{
+    text-align: right;
+    flex-grow: 1;
+}
+
+.social-icons i{
+    margin: 0 7px;
+    cursor: pointer;
+}
+
+.h3{
+    border-style: solid;
+    border-color: red;
+    border-width: 1px;
+}
+
+.padding-block{
+    padding-top: 30px;
+}
+
+.before-footer {
+    text-align: center;
+    padding-right: 80px;
+    padding-left: 80px;
+}
+
+.body-bottom{
+    padding-left: 30px;
+    align-content: center;
+    text-align: center;
+}
+
+.welcome{
+    text-align: center;
+}
+
+.before-footer h3 {
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(241, 119, 19);
+    content: rgb(253, 253, 252);
+}
